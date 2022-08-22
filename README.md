@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on ... Mern Stack web Applications
 - 🌱 I’m currently learning ... Cloud Native Computing, DevOps.
 - 👯 I’m looking to collaborate on ... My weather app which is server side web app with nodejs
-- 🤔 I’m looking for help with ... ReactNative
-- 💬 Ask me about ... HTML CSS JAVACRIPT REACTJS NODEJS.
+- 💬 Ask me about ... Html, css, javascript, DevOps, Docker, Responsie mobile designs, figma to html and figma to react.
 - 📫 How to reach me: ... haseebalamrafiq@gmail.com
 - 😄 Pronouns: ...  Abdul Haseeb
 
