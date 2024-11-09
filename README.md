@@ -6,5 +6,5 @@
 
                       My self: HASEEB ALAM RAFIQ  
 
-- 🔭 I’m currently working on ... Frontend || React.js & Next.js
+Frontend || React.js & Next.js
 
