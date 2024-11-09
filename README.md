@@ -6,5 +6,5 @@
 
                       My self: HASEEB ALAM RAFIQ  
 
-Frontend || React.js & Next.js
+Frontend || Vanilla JS | React & Next
 
