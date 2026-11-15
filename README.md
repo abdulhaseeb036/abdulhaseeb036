@@ -1,9 +1,3 @@
-
-https://gitfut.com/abdulhaseeb036
-
-
-
-
 ### Hi there 👋
 
 <div id="header" align="center">
